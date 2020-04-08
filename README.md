@@ -1,4 +1,4 @@
-# STDN_PyTorch
+# STDN_PyTorch (Spatial-Temporal Dynamic Network)
 
 ## About
 Pytorch Implementation of the paper [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://arxiv.org/abs/1803.01254)
