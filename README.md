@@ -3,6 +3,7 @@
 ## About
 Pytorch Implementation of the paper [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://arxiv.org/abs/1803.01254)
 
+Please refer to [this repository](https://github.com/tangxianfeng/STDN) for source code implemented with TensorFlow.
 ## Installation
 Requirements
 
